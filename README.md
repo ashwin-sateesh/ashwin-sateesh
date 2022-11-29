@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ashwin Sateesh Kumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ashwin Portfolio
 
-<!---
-ashwins101/ashwins101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ashwin Sateesh Kumar
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently pursuing Master of Science in Data Science at Northeastern University
+- 💞️ I’m 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ashwins24/) and [E-mail](sateeshkumar.a@northeastern.edu)
+
+

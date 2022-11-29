@@ -1,4 +1,4 @@
-# Ashwin Portfolio
+# About Me
 
 - 👋 Hi, I’m Ashwin Sateesh Kumar
 - 👀 I’m interested in Machine Learning and Deep Learning
